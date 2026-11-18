@@ -1,6 +1,6 @@
 # Max Ben Plus — Tải về
 
-Phiên bản **1.0.12 (build 69)** · cập nhật 15/11/2026
+Phiên bản **1.0.12 (build 71)** · cập nhật 18/11/2026
 
 Các đường dẫn chính đi qua `gh-proxy.com` để tải nhanh và ổn định hơn ở Việt Nam.
 Mỗi bản có thêm **link dự phòng cho Trung Quốc** (`ghfast.top`) và **cho Nga** (tải thẳng từ GitHub), dùng khi link chính không tải được.
@@ -12,62 +12,62 @@ Từ bản này, app trên Android, Windows và macOS tự báo khi có bản m�
 
 ### arm64-v8a — hầu hết điện thoại Android hiện nay (khuyên dùng) · 36.8 MB
 
-[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build69/MAXBEN-PLUS-Android-1.0.12-build69-arm64-v8a.apk)
+[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build71/MAXBEN-PLUS-Android-1.0.12-build71-arm64-v8a.apk)
 
 ```
-https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build69/MAXBEN-PLUS-Android-1.0.12-build69-arm64-v8a.apk
+https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build71/MAXBEN-PLUS-Android-1.0.12-build71-arm64-v8a.apk
 ```
 
 **Dự phòng Trung Quốc**
 
 ```
-https://ghfast.top/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build69/MAXBEN-PLUS-Android-1.0.12-build69-arm64-v8a.apk
+https://ghfast.top/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build71/MAXBEN-PLUS-Android-1.0.12-build71-arm64-v8a.apk
 ```
 
 **Dự phòng Nga** (tải thẳng từ GitHub)
 
 ```
-https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build69/MAXBEN-PLUS-Android-1.0.12-build69-arm64-v8a.apk
+https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build71/MAXBEN-PLUS-Android-1.0.12-build71-arm64-v8a.apk
 ```
 
 ### armeabi-v7a — máy Android đời cũ (32-bit) · 37.0 MB
 
-[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build69/MAXBEN-PLUS-Android-1.0.12-build69-armeabi-v7a.apk)
+[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build71/MAXBEN-PLUS-Android-1.0.12-build71-armeabi-v7a.apk)
 
 ```
-https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build69/MAXBEN-PLUS-Android-1.0.12-build69-armeabi-v7a.apk
+https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build71/MAXBEN-PLUS-Android-1.0.12-build71-armeabi-v7a.apk
 ```
 
 **Dự phòng Trung Quốc**
 
 ```
-https://ghfast.top/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build69/MAXBEN-PLUS-Android-1.0.12-build69-armeabi-v7a.apk
+https://ghfast.top/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build71/MAXBEN-PLUS-Android-1.0.12-build71-armeabi-v7a.apk
 ```
 
 **Dự phòng Nga** (tải thẳng từ GitHub)
 
 ```
-https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build69/MAXBEN-PLUS-Android-1.0.12-build69-armeabi-v7a.apk
+https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build71/MAXBEN-PLUS-Android-1.0.12-build71-armeabi-v7a.apk
 ```
 
 ### x86_64 — giả lập Android trên máy tính (LDPlayer, MuMu…) · 38.5 MB
 
-[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build69/MAXBEN-PLUS-Android-1.0.12-build69-x86_64.apk)
+[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build71/MAXBEN-PLUS-Android-1.0.12-build71-x86_64.apk)
 
 ```
-https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build69/MAXBEN-PLUS-Android-1.0.12-build69-x86_64.apk
+https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build71/MAXBEN-PLUS-Android-1.0.12-build71-x86_64.apk
 ```
 
 **Dự phòng Trung Quốc**
 
 ```
-https://ghfast.top/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build69/MAXBEN-PLUS-Android-1.0.12-build69-x86_64.apk
+https://ghfast.top/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build71/MAXBEN-PLUS-Android-1.0.12-build71-x86_64.apk
 ```
 
 **Dự phòng Nga** (tải thẳng từ GitHub)
 
 ```
-https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build69/MAXBEN-PLUS-Android-1.0.12-build69-x86_64.apk
+https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build71/MAXBEN-PLUS-Android-1.0.12-build71-x86_64.apk
 ```
 
 Không biết chọn bản nào thì tải **arm64-v8a**.
@@ -76,42 +76,42 @@ Không biết chọn bản nào thì tải **arm64-v8a**.
 
 ### Bản cài đặt — có biểu tượng ở Start menu (khuyên dùng) · 31.1 MB
 
-[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build69/MAXBEN-PLUS-Windows-1.0.12-build69-setup.exe)
+[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build71/MAXBEN-PLUS-Windows-1.0.12-build71-setup.exe)
 
 ```
-https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build69/MAXBEN-PLUS-Windows-1.0.12-build69-setup.exe
+https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build71/MAXBEN-PLUS-Windows-1.0.12-build71-setup.exe
 ```
 
 **Dự phòng Trung Quốc**
 
 ```
-https://ghfast.top/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build69/MAXBEN-PLUS-Windows-1.0.12-build69-setup.exe
+https://ghfast.top/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build71/MAXBEN-PLUS-Windows-1.0.12-build71-setup.exe
 ```
 
 **Dự phòng Nga** (tải thẳng từ GitHub)
 
 ```
-https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build69/MAXBEN-PLUS-Windows-1.0.12-build69-setup.exe
+https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build71/MAXBEN-PLUS-Windows-1.0.12-build71-setup.exe
 ```
 
 ### Bản portable — giải nén rồi chạy `MAXBEN-PLUS.exe`, không cần cài · 43.1 MB
 
-[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build69/MAXBEN-PLUS-Windows-1.0.12-build69-portable.zip)
+[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build71/MAXBEN-PLUS-Windows-1.0.12-build71-portable.zip)
 
 ```
-https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build69/MAXBEN-PLUS-Windows-1.0.12-build69-portable.zip
+https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build71/MAXBEN-PLUS-Windows-1.0.12-build71-portable.zip
 ```
 
 **Dự phòng Trung Quốc**
 
 ```
-https://ghfast.top/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build69/MAXBEN-PLUS-Windows-1.0.12-build69-portable.zip
+https://ghfast.top/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build71/MAXBEN-PLUS-Windows-1.0.12-build71-portable.zip
 ```
 
 **Dự phòng Nga** (tải thẳng từ GitHub)
 
 ```
-https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build69/MAXBEN-PLUS-Windows-1.0.12-build69-portable.zip
+https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build71/MAXBEN-PLUS-Windows-1.0.12-build71-portable.zip
 ```
 
 Yêu cầu Windows 10/11 64-bit. Lần kết nối đầu tiên Windows sẽ hỏi quyền quản trị để bật chế độ TUN.
@@ -122,22 +122,22 @@ Với bản portable, lần bật VPN đầu tiên app cài phần dịch vụ v
 
 ### Bản cài đặt .pkg — chạy được cả Mac chip Apple (M1–M4) và Mac Intel · 61.9 MB
 
-[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build69/MAXBEN-PLUS-macOS-1.0.12-build69.pkg)
+[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build71/MAXBEN-PLUS-macOS-1.0.12-build71.pkg)
 
 ```
-https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build69/MAXBEN-PLUS-macOS-1.0.12-build69.pkg
+https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build71/MAXBEN-PLUS-macOS-1.0.12-build71.pkg
 ```
 
 **Dự phòng Trung Quốc**
 
 ```
-https://ghfast.top/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build69/MAXBEN-PLUS-macOS-1.0.12-build69.pkg
+https://ghfast.top/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build71/MAXBEN-PLUS-macOS-1.0.12-build71.pkg
 ```
 
 **Dự phòng Nga** (tải thẳng từ GitHub)
 
 ```
-https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build69/MAXBEN-PLUS-macOS-1.0.12-build69.pkg
+https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build71/MAXBEN-PLUS-macOS-1.0.12-build71.pkg
 ```
 
 Mở file `.pkg` và làm theo hướng dẫn; app được cài vào thư mục Applications với tên **Max Ben Plus**.
@@ -149,10 +149,10 @@ Bản iOS được phát hành qua TestFlight/App Store, không tải trực ti�
 ## Kiểm tra file (SHA-256)
 
 ```
-c9384cd3e6377e3297c7776e594b23fbcaf69acac23e7cc3862388d17560cbb8  MAXBEN-PLUS-Android-1.0.12-build69-arm64-v8a.apk
-bc46338601732b59c8fc05949fe0e4590faa0fc87f1677391fb68fdf8ccad751  MAXBEN-PLUS-Android-1.0.12-build69-armeabi-v7a.apk
-3432e7b1d47f630a89f35a7c4e7d9705d8313c849cfc02beff63caa5681b01e0  MAXBEN-PLUS-Android-1.0.12-build69-x86_64.apk
-090b56c29373ca491402a116d652742509f1e975350f0dac34d69a077c35b833  MAXBEN-PLUS-Windows-1.0.12-build69-setup.exe
-284e57478c60e0137d23ce460c3c4a25fcbbd353caedfeef9ae9b8003b2aa206  MAXBEN-PLUS-Windows-1.0.12-build69-portable.zip
-46eb4683323a476d396bb307dd0637929df80bcd2600bae55f5b1f2bedcb3bbe  MAXBEN-PLUS-macOS-1.0.12-build69.pkg
+a057f2dc2efad501fddfa235943f37ca96cea81d48f5e0daa7e34e1a502989e8  MAXBEN-PLUS-Android-1.0.12-build71-arm64-v8a.apk
+a6fd14a9cd1c614af239e60fa81b3fba267dde32dc85b333dcd3acd579254d11  MAXBEN-PLUS-Android-1.0.12-build71-armeabi-v7a.apk
+b587372688823eb44836c84ba35b3efbf71f73e4160ce6c3241ec4a8ebbf4e24  MAXBEN-PLUS-Android-1.0.12-build71-x86_64.apk
+fc80741d0ef782cfe4430b536f410e48bd129c7df67e67e48bb818db592f4688  MAXBEN-PLUS-Windows-1.0.12-build71-setup.exe
+9c190ec44b29f9848b0b74ccf2b33ad11e7f8fdec69765580375d2c823281ecd  MAXBEN-PLUS-Windows-1.0.12-build71-portable.zip
+b92dffeb733f146787fb310e2813cf07f835ee839c0ce32977947aad8e587900  MAXBEN-PLUS-macOS-1.0.12-build71.pkg
 ```
